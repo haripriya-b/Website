@@ -1,0 +1,67 @@
+
+#movie {
+   display: table;
+   width: 1000px;
+   height: 300px;
+   background: url(images/header.jpg) repeat;
+   margin: 100px auto 0 auto;  
+}
+
+
+#picture {
+   text-align: center;
+   width: 400px;
+   height: 250px;
+   float: left;
+   margin-top: 50px;     
+   }
+
+
+#details {
+   width: 600 px;
+   height: 240px;
+   color: white;
+   text-align: left;
+   margin-top: 60px;
+
+}
+
+
+
+#box {
+   width: 1000px;
+   margin: 70px auto 0 auto;
+   padding: 20px 10px 20px 10px;
+   background: url(images/header.jpg) repeat;
+   text-align: center;  
+  }
+
+
+.heading {
+   margin-top:30px;
+   margin-left:30px;
+}
+
+
+.para {
+   margin-left:30px;
+   margin-right: 30px;
+}
+
+
+.wcolumns {
+   width: 1000px;
+   height: 200px;
+   background-color: white;
+   color: black;   
+   text-align: left;
+}
+
+.columns {
+   width: 1000px;
+   height: 200px;
+   color: white;
+   text-align: left;   
+}
+
+

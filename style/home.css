@@ -1,0 +1,28 @@
+
+#content {
+   display: table;
+   width: 1000px;
+   margin: 100px auto 0 auto;
+
+}
+
+
+#picture {
+   width: 640px;
+   height: 462px;
+   background: url(images/music.png) no-repeat;
+   float: left;
+   }
+
+
+#matter {
+   width: 330px;
+   height: 162px;
+   background: url(images/header.jpg) repeat;
+   color: white;
+   text-align: center;
+   padding: 120px 15px 180px 15px;
+   float: right;
+}
+
+

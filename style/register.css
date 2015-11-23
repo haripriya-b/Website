@@ -1,0 +1,42 @@
+
+
+#content {
+   display: table;
+   width: 1000px;
+   margin: 100px auto 0 auto;
+
+}
+
+
+#picture {
+   width: 640px;
+   height: 462px;
+   background: url(images/music.png) no-repeat;
+   float: left;
+   }
+
+
+#matter {
+   width: 330px;
+   height: 462px;
+   background: url(images/header.jpg) repeat;
+   color: white;
+   padding: 0 15px 0 15px;
+   float: right;
+}
+
+
+h2 {
+   text-align: center;
+}
+
+#register  {
+   text-align: left;
+}
+
+
+#register input {
+   Text-align: center;
+ }
+
+
